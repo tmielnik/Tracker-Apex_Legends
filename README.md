@@ -12,5 +12,5 @@ Simple test from API tracker.gg
 
 # Obtain your API KEY in https://tracker.gg/developers/docs/getting-started
 - Create the .env file with your APY KEY:
-- API_KEY=your api
+- API_KEY=your api key
 
